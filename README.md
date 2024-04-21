@@ -1,6 +1,6 @@
 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
-**AIM: **
+AIM: 
 
  To simulate and synthesis multiplier using Xilinx ISE.
 
@@ -134,7 +134,7 @@ fa r74(w[15],fc[4],fc[6],p[6],p[7]);
 endmodule
 ```
 
-output:
+OUTPUT:
 
 ![WhatsApp Image 2024-04-21 at 21 46 25_c6823bff](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-3/assets/153823077/9f7fa9ab-59f2-408f-9b70-5a8b2bb79ea3)
 
